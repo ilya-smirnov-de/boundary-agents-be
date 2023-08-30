@@ -1,0 +1,5 @@
+{
+  "fact-grid-url": "https://database.factgrid.de/sparql",
+  "fact-grid-entity-data-url": "https://database.factgrid.de/wiki/Special:EntityData",
+  "port": 8081
+}
